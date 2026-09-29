@@ -1,0 +1,33 @@
+{
+    "name": "thousandmails/thousandmails",
+    "description": "Official PHP SDK for the ThousandMails client API — transactional email, attachments, statistics, delivery logs and a live event stream.",
+    "type": "library",
+    "license": "proprietary",
+    "keywords": [
+        "thousandmails",
+        "mailer",
+        "email",
+        "smtp",
+        "transactional-email",
+        "sdk"
+    ],
+    "authors": [
+        {
+            "name": "Hariraghav.S"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ThousandMails\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,70 @@
+ThousandMails PHP SDK — Licence
+
+Copyright © 2026 Techinorm Solutions Pvt Ltd. All rights reserved.
+
+This software is licensed, not sold. By installing, copying or using it you
+accept the terms below. If you do not accept them, do not install or use it.
+
+1. Grant of licence
+
+   Techinorm Solutions Pvt Ltd grants you a non-exclusive, non-transferable,
+   revocable, worldwide licence to:
+
+   a. install and use this software, in unmodified form, within your own
+      applications, for the sole purpose of accessing the ThousandMails service;
+      and
+
+   b. redistribute it, in unmodified form, only as an installed dependency of
+      those applications.
+
+2. Restrictions
+
+   You may not:
+
+   a. modify, adapt, translate or otherwise alter the source code, or create
+      derivative works based on it, in whole or in part;
+
+   b. reverse engineer, decompile or disassemble the software, except to the
+      extent applicable law expressly permits despite this restriction;
+
+   c. remove, obscure or alter any copyright, trademark or other proprietary
+      notice contained in the software;
+
+   d. distribute, publish, sublicense, sell, rent, lease or lend the software
+      other than as permitted by section 1(b), or publish it — in whole or in
+      part, under this or any other name — as a separate package or as part of
+      a competing software development kit; or
+
+   e. use the software for any purpose other than accessing the ThousandMails
+      service.
+
+3. Automated build steps
+
+   Bundling, minification, transpilation, compression, tree-shaking and similar
+   automated build steps that do not change the behaviour of the software are
+   permitted, and are not "modification" for the purposes of section 2(a).
+
+4. Ownership
+
+   All right, title and interest in the software, including all intellectual
+   property rights in it, remain with Techinorm Solutions Pvt Ltd. No rights are
+   granted to you except those expressly set out in this licence.
+
+5. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. Limitation of liability
+
+   IN NO EVENT SHALL TECHINORM SOLUTIONS PVT LTD BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Termination
+
+   This licence terminates automatically, without notice, if you breach any of
+   its terms. On termination you must stop using the software and destroy all
+   copies in your possession.
