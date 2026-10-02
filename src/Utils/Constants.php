@@ -20,7 +20,7 @@ final class Constants
     public const DEFAULT_MAX_RETRIES = 2;
 
     /** The host used when nothing overrides it. */
-    public const FALLBACK_BASE_URL = 'https://beta.thousandmails.com/mailerapi';
+    public const FALLBACK_BASE_URL = 'https://service.thousandmails.com/mailerapi';
 
     // --- send limits ---------------------------------------------------------
 
